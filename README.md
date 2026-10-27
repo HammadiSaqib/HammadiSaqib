@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Hammad%20Saqib&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Founder%20%E2%80%A2%20CTO%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20%26%20Automation%20Builder&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Hammad Saqib banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=200&section=header&text=Hammad%20Saqib&fontSize=60&fontColor=ffffff" width="100%" alt="Hammad Saqib" />
+
+### Founder • CTO • Full-Stack Developer • AI & Automation Builder
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Hammad+Saqib+%F0%9F%91%8B;I+build+software+that+solves+real+business+problems;AI+Agents+%E2%80%A2+CRM+Systems+%E2%80%A2+SaaS+%E2%80%A2+Automation;Turning+complicated+workflows+into+scalable+systems" alt="Typing SVG" />
@@ -155,6 +157,9 @@ A major part of my work involves building systems where **AI works alongside tra
 
 <div align="center">
 
+![Last year](https://img.shields.io/badge/Contributions_in_the_last_year-1%2C219-7c3aed?style=for-the-badge&logo=github&logoColor=white)
+![2025](https://img.shields.io/badge/Contributions_in_2025-401-2563eb?style=for-the-badge&logo=github&logoColor=white)
+
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=HammadiSaqib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=a78bfa&text_color=cbd5e1&count_private=true" alt="GitHub stats" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammadiSaqib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
 
@@ -191,6 +196,6 @@ I'm always interested in building meaningful products, solving difficult busines
 
 **Thanks for visiting my profile 👋**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="" />
 
 </div>
